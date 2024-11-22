@@ -1,1 +1,2 @@
-# hybrid-rf-fso-channel-model
+# Hybrid RF/FSO Channel Model
+This repository contains the implementation and analysis of a Hybrid RF/FSO Channel Model, which explores the integration of radio frequency (RF) and free-space optics (FSO) for robust communication systems under varying atmospheric conditions. The project employs machine learning techniques, such as Random Forest regression, to model channel attenuation influenced by weather factors.
